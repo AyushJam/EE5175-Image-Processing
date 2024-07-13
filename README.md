@@ -7,3 +7,7 @@
 4. Space-Variant Blurring
 5. Space-Invariant Blurring
 6. Shape from Focus
+7. Fourier Transform / DFT
+8. Otsu Thresholding
+9. K-Means Clustering
+   
